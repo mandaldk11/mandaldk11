@@ -1,4 +1,4 @@
-                    # 💫 About Me:
+# Dharmendra Mandal
 i'm currently working in fourecia as Gl and have more than 2+ years of experience as full stack developer
 
 
